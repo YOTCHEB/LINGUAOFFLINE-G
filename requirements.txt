@@ -1,0 +1,14 @@
+fastapi
+pydantic
+python-dotenv
+google-generativeai
+torch
+transformers
+peft
+accelerate
+unsloth
+numpy
+soundfile
+scipy
+pyttsx3
+uvicorn
